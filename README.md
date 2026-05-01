@@ -153,7 +153,7 @@ seaborn         # Matrice de corrélation, heatmaps
 
 ---
 
-## Points Clés pour un Recruteur
+## Points Clés
 
 - **End-to-end pipeline** : du CSV brut aux prédictions calibrées en production
 - **Benchmark rigoureux** : 11 algorithmes évalués sur les mêmes données, même preprocessing
