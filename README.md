@@ -10,7 +10,7 @@
 
 **Pipeline ML complet de scoring de risque de crédit — du preprocessing au benchmark de 11 modèles**
 
-*ECE Paris — Bachelor Data IA Dev | Youssef Tazi*
+*ECE Paris — Data IA Dev | Youssef Tazi*
 
 </div>
 
